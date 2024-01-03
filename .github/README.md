@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 𝗠𝗨𝗦𝗜𝗖 」──
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BRANDED-NEW-MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDED-NEW-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDED-NEW-MUSIC?color=blue&logo=github&logoColor=greenhouse&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FeelingsBots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FeelingSupport"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
